@@ -87,7 +87,7 @@ Lewis
 
 Main Developer 
 
-C#, backend, database, architecture 
+frontend development
 
 Jonatas 
 
@@ -107,13 +107,13 @@ Osato
 
 UI/UX Wireframe Designer 
 
-Low-fidelity wireframes, navigation 
+Low-fidelity wireframes
 
 Aden 
 
-Developer 
+Main Developer 
 
-Website development, implementation, testing and integration 
+backend development
 
  
 
